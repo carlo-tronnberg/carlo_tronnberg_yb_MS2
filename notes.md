@@ -9,13 +9,16 @@
 - 🚧 In progress
 - ✅ Ready
 - ⛔ Blocker
-- ⚠  Warning 
+- ⚠  Warning
 - 💡 Idea
 - 📌 Pinned idea
-- 📝 Note 
+- 📝 Note
 - 🔨 Refactoring
 ```
 
 ## Progress
 
 ### Pomodoro 🍅 1
+
+- User story #1 🚧
+  - Scenario #1 ⚙
